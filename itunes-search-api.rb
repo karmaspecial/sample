@@ -2,7 +2,7 @@ require "open-uri"
 require 'itunes-search-api'
 
 ITunesSearchAPI.search(
-  :term    => "東京事変",
+  :term    => " サカナクション  ",
   :country => 'jp',
   :media   => 'music',
   :lang    => 'ja_jp',
